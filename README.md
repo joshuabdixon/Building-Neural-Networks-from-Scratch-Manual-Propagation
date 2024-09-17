@@ -1,4 +1,4 @@
-# Building-Neural-Networks-from-Scratch: Manual-Propagation
+# Building Neural Networks from Scratch: Manual Propagation
 
 ## Project Overview
 This project involves building a simple neural network manually to optimise a recommendation engine for an online retail store. The focus is on understanding neural network theory, implementing manual forward and backward propagation, and using gradient descent for model optimisation.
